@@ -16,3 +16,4 @@ Bringing up the Docker Compose network with `site` instead of just using `up`, e
 - **redis** - `:6379`
 - **mailhog** - `:8025` 
 
+ [cloned from](https://github.com/aschmelyun/docker-compose-laravel).
