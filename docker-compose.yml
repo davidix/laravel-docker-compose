@@ -75,6 +75,7 @@ services:
       
   npm:
     image: node:13.7
+    command: npm start
     container_name: npm
     volumes:
       - ./src:/var/www/html
